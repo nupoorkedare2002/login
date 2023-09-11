@@ -6,3 +6,5 @@ Features
 - Simple and straightforward login interface.
 - HTML and CSS files for easy integration into your projects.
 - Customizable colors and styles.
+
+ for background pictures : https://www.wallpaperflare.com/
